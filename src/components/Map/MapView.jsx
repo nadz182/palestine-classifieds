@@ -41,7 +41,7 @@ export function MapView({ selectedLocation, onLocationSelect, height = '400px', 
   }, [position, onLocationSelect]);
 
   return (
-    <div style={{ height, width: '100%' }} className="rounded-lg overflow-hidden border border-gray-300">
+    <div style={{ height, width: '100%' }} className="rounded-xl overflow-hidden border border-gray-200">
       <MapContainer
         center={palestineCenter}
         zoom={8}
@@ -53,7 +53,7 @@ export function MapView({ selectedLocation, onLocationSelect, height = '400px', 
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        
+
         {showCities && palestineCities.map((city) => (
           <Marker key={city.name} position={city.coordinates}>
             <Popup>{city.name}</Popup>
@@ -66,10 +66,11 @@ export function MapView({ selectedLocation, onLocationSelect, height = '400px', 
 
         {!selectable && position && (
           <Marker position={position}>
-            <Popup>Ad Location</Popup>
+            <Popup>Property Location</Popup>
           </Marker>
         )}
       </MapContainer>
     </div>
   );
 }
+

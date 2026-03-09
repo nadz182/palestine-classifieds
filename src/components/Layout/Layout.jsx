@@ -1,19 +1,16 @@
 import { Header } from './Header';
+import { Footer } from './Footer';
+import { MobileNav } from './MobileNav';
 
 export function Layout({ children }) {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
       <Header />
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <main className="flex-1 pb-20 md:pb-0">
         {children}
       </main>
-      <footer className="bg-white border-t border-gray-200 mt-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <p className="text-center text-gray-600">
-            &copy; 2026 Palestine Classifieds. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <Footer />
+      <MobileNav />
     </div>
   );
 }

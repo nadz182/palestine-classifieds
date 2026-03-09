@@ -1,0 +1,262 @@
+{
+  "brand": "Palestine Properties",
+  "brandPalestine": "Palestine",
+  "brandProperties": "Properties",
+  "partOf": "Part of",
+
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "browse": "Browse",
+    "mapSearch": "Map Search",
+    "favorites": "Favorites",
+    "postListing": "Post Listing",
+    "postAListing": "Post a Listing",
+    "profile": "Profile",
+    "post": "Post",
+    "aboutUs": "About Us"
+  },
+
+  "hero": {
+    "title": "Find Your Property in Palestine",
+    "subtitle": "Land, homes, and commercial properties across the West Bank",
+    "searchPlaceholder": "Search by location, property type, or keyword...",
+    "search": "Search"
+  },
+
+  "quickFilters": {
+    "forSale": "For Sale",
+    "forRent": "For Rent",
+    "land": "Land",
+    "apartments": "Apartments",
+    "houses": "Houses",
+    "farms": "Farms"
+  },
+
+  "home": {
+    "featuredProperties": "Featured Properties",
+    "latestListings": "Latest listings across Palestine",
+    "viewAll": "View All",
+    "browseByType": "Browse by Type",
+    "findExactly": "Find exactly what you're looking for",
+    "listings": "listings",
+    "browseByCity": "Browse by City",
+    "exploreProperties": "Explore properties in major Palestinian cities",
+    "properties": "properties",
+    "propertiesOnMap": "Properties on Map",
+    "propertiesWithLocation": "{{count}} properties with location",
+    "fullMap": "Full Map"
+  },
+
+  "search": {
+    "searchProperties": "Search Properties",
+    "findYourPerfect": "Find your perfect property in Palestine",
+    "searchPlaceholder": "Search properties...",
+    "filters": "Filters",
+    "clearAll": "Clear all",
+    "active": "Active:",
+    "propertyType": "Property Type",
+    "listingType": "Listing Type",
+    "all": "All",
+    "sale": "Sale",
+    "rent": "Rent",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "location": "Location",
+    "allCities": "All Cities",
+    "priceRange": "Price Range",
+    "area": "Area",
+    "features": "Features",
+    "zoning": "Zoning",
+    "allZoning": "All Zoning"
+  },
+
+  "sort": {
+    "newestFirst": "Newest First",
+    "oldestFirst": "Oldest First",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "largestArea": "Largest Area",
+    "smallestArea": "Smallest Area"
+  },
+
+  "property": {
+    "forSale": "For Sale",
+    "forRent": "For Rent",
+    "contactForPrice": "Contact for price",
+    "noProperties": "No properties found matching your criteria.",
+    "tryAdjusting": "Try adjusting your filters.",
+    "propertiesFound_one": "{{count}} property found",
+    "propertiesFound_other": "{{count}} properties found",
+    "save": "Save",
+    "saved": "Saved",
+    "compare": "Compare",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this listing?",
+    "loading": "Loading...",
+    "viewDetails": "View Details"
+  },
+
+  "detail": {
+    "description": "Description",
+    "specs": "Property Specifications",
+    "area": "Area",
+    "pricePerUnit": "Price per Unit",
+    "zoning": "Zoning",
+    "category": "Category",
+    "listed": "Listed",
+    "featuresAmenities": "Features & Amenities",
+    "location": "Location",
+    "similarProperties": "Similar Properties",
+    "contactSeller": "Contact Seller",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "callSeller": "Call Seller",
+    "listingId": "Listing ID"
+  },
+
+  "compare": {
+    "title": "Compare Properties",
+    "selectedOf": "{{count}} of 3 max properties selected",
+    "clearAll": "Clear All",
+    "noProperties": "No properties to compare",
+    "addUpTo": "Add up to 3 properties from search results to compare them side by side.",
+    "browseProperties": "Browse Properties",
+    "property": "Property",
+    "price": "Price",
+    "type": "Type",
+    "area": "Area",
+    "priceUnit": "Price/Unit",
+    "location": "Location",
+    "zoning": "Zoning"
+  },
+
+  "favorites": {
+    "title": "Saved Properties",
+    "count": "{{count}} saved properties",
+    "noProperties": "No saved properties yet",
+    "clickHeart": "Click the heart icon on any property to save it here.",
+    "browseProperties": "Browse Properties"
+  },
+
+  "create": {
+    "step1": "Property Type",
+    "step2": "Details",
+    "step3": "Location",
+    "step4": "Features",
+    "step5": "Review",
+    "whatType": "What type of property?",
+    "listingType": "Listing Type",
+    "category": "Category",
+    "subcategory": "Subcategory",
+    "selectSubcategory": "Select subcategory",
+    "propertyDetails": "Property Details",
+    "title": "Title",
+    "titlePlaceholder": "e.g., 2-Bedroom Apartment in Ramallah",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe the property in detail...",
+    "priceUsd": "Price (USD)",
+    "area": "Area",
+    "unit": "Unit",
+    "dunam": "Dunam",
+    "sqm": "sqm",
+    "phoneNumber": "Phone Number",
+    "phonePlaceholder": "+970 XX XXX XXXX",
+    "zoning": "Zoning",
+    "selectZoning": "Select zoning",
+    "city": "City",
+    "selectCity": "Select city",
+    "district": "District",
+    "selectDistrict": "Select district",
+    "pinLocation": "Pin Location on Map (Optional)",
+    "selected": "Selected",
+    "featuresAmenities": "Features & Amenities",
+    "selectAll": "Select all that apply",
+    "reviewListing": "Review Your Listing",
+    "notSpecified": "Not specified",
+    "noneSelected": "None selected",
+    "notPinned": "Not pinned",
+    "mapLocation": "Map Location",
+    "back": "Back",
+    "cancel": "Cancel",
+    "next": "Next",
+    "publishListing": "Publish Listing"
+  },
+
+  "map": {
+    "propertiesOnMap": "{{count}} Properties on Map",
+    "clickMarker": "Click a marker to see details"
+  },
+
+  "notFound": {
+    "title": "404",
+    "message": "The page you're looking for doesn't exist.",
+    "goHome": "Go Home",
+    "browseProperties": "Browse Properties"
+  },
+
+  "about": {
+    "title": "Palestine Properties",
+    "subtitle": "The leading platform for land and real estate in Palestine. Connecting buyers, sellers, and renters across the West Bank and Gaza Strip.",
+    "trusted": "Trusted Platform",
+    "trustedDesc": "Verified listings and transparent information for safe property transactions.",
+    "local": "Local Focus",
+    "localDesc": "Dedicated to Palestinian cities and communities, with local knowledge and insights.",
+    "bilingual": "Bilingual",
+    "bilingualDesc": "Full support for Arabic and English to serve all users across Palestine and the diaspora.",
+    "mission": "Our Mission",
+    "missionP1": "Palestine Properties is part of the mstkshf.com ecosystem, providing a specialized platform for real estate and land transactions in Palestine. Our mission is to make property discovery accessible, transparent, and efficient.",
+    "missionP2": "Whether you're looking for agricultural land in Hebron, an apartment in Ramallah, a commercial space in Nablus, or a family home in Jerusalem — we're here to help you find it.",
+    "missionP3": "We cover all major Palestinian cities including Jerusalem, Ramallah, Hebron, Nablus, Bethlehem, Jenin, Jericho, Tulkarm, Qalqilya, and more."
+  },
+
+  "footer": {
+    "description": "The leading platform for land and real estate in Palestine. Find your perfect property across the West Bank.",
+    "quickLinks": "Quick Links",
+    "browseByCity": "Browse by City",
+    "contact": "Contact",
+    "allRights": "Palestine Properties. All rights reserved."
+  },
+
+  "categories": {
+    "residential-land": "Residential Land",
+    "agricultural-land": "Agricultural Land",
+    "commercial-land": "Commercial Land",
+    "industrial-land": "Industrial Land",
+    "houses-villas": "Houses & Villas",
+    "apartments": "Apartments",
+    "commercial-property": "Commercial Property",
+    "farms": "Farms"
+  },
+
+  "zoning": {
+    "residential-a": "Residential A",
+    "residential-b": "Residential B",
+    "commercial": "Commercial",
+    "agricultural": "Agricultural",
+    "industrial": "Industrial"
+  },
+
+  "features": {
+    "Parking": "Parking",
+    "Garden": "Garden",
+    "Pool": "Pool",
+    "Elevator": "Elevator",
+    "Central Heating": "Central Heating",
+    "Air Conditioning": "Air Conditioning",
+    "Balcony": "Balcony",
+    "Security System": "Security System",
+    "Furnished": "Furnished",
+    "Water Well": "Water Well",
+    "Road Access": "Road Access",
+    "Fenced": "Fenced",
+    "Storage": "Storage",
+    "Garage": "Garage",
+    "Solar Panels": "Solar Panels",
+    "Internet": "Internet",
+    "Generator": "Generator",
+    "Water Heater": "Water Heater",
+    "Building Permit": "Building Permit",
+    "Flat Terrain": "Flat Terrain"
+  }
+}

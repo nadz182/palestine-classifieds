@@ -1,0 +1,262 @@
+{
+  "brand": "عقارات فلسطين",
+  "brandPalestine": "فلسطين",
+  "brandProperties": "عقارات",
+  "partOf": "جزء من",
+
+  "nav": {
+    "home": "الرئيسية",
+    "search": "بحث",
+    "browse": "تصفح",
+    "mapSearch": "بحث على الخريطة",
+    "favorites": "المفضلة",
+    "postListing": "أضف إعلان",
+    "postAListing": "أضف إعلاناً",
+    "profile": "الملف الشخصي",
+    "post": "أضف",
+    "aboutUs": "من نحن"
+  },
+
+  "hero": {
+    "title": "ابحث عن عقارك في فلسطين",
+    "subtitle": "أراضٍ ومنازل وعقارات تجارية في الضفة الغربية",
+    "searchPlaceholder": "ابحث حسب الموقع، نوع العقار، أو كلمة مفتاحية...",
+    "search": "بحث"
+  },
+
+  "quickFilters": {
+    "forSale": "للبيع",
+    "forRent": "للإيجار",
+    "land": "أراضٍ",
+    "apartments": "شقق",
+    "houses": "منازل",
+    "farms": "مزارع"
+  },
+
+  "home": {
+    "featuredProperties": "عقارات مميزة",
+    "latestListings": "أحدث الإعلانات في فلسطين",
+    "viewAll": "عرض الكل",
+    "browseByType": "تصفح حسب النوع",
+    "findExactly": "اعثر على ما تبحث عنه بالضبط",
+    "listings": "إعلان",
+    "browseByCity": "تصفح حسب المدينة",
+    "exploreProperties": "استكشف العقارات في المدن الفلسطينية الرئيسية",
+    "properties": "عقار",
+    "propertiesOnMap": "عقارات على الخريطة",
+    "propertiesWithLocation": "{{count}} عقار مع موقع",
+    "fullMap": "خريطة كاملة"
+  },
+
+  "search": {
+    "searchProperties": "البحث عن عقارات",
+    "findYourPerfect": "اعثر على عقارك المثالي في فلسطين",
+    "searchPlaceholder": "ابحث عن عقارات...",
+    "filters": "تصفية",
+    "clearAll": "مسح الكل",
+    "active": "نشط:",
+    "propertyType": "نوع العقار",
+    "listingType": "نوع الإعلان",
+    "all": "الكل",
+    "sale": "بيع",
+    "rent": "إيجار",
+    "category": "الفئة",
+    "allCategories": "جميع الفئات",
+    "location": "الموقع",
+    "allCities": "جميع المدن",
+    "priceRange": "نطاق السعر",
+    "area": "المساحة",
+    "features": "المميزات",
+    "zoning": "التصنيف",
+    "allZoning": "جميع التصنيفات"
+  },
+
+  "sort": {
+    "newestFirst": "الأحدث أولاً",
+    "oldestFirst": "الأقدم أولاً",
+    "priceLowHigh": "السعر: من الأقل للأعلى",
+    "priceHighLow": "السعر: من الأعلى للأقل",
+    "largestArea": "الأكبر مساحة",
+    "smallestArea": "الأصغر مساحة"
+  },
+
+  "property": {
+    "forSale": "للبيع",
+    "forRent": "للإيجار",
+    "contactForPrice": "اتصل لمعرفة السعر",
+    "noProperties": "لم يتم العثور على عقارات مطابقة.",
+    "tryAdjusting": "حاول تعديل عوامل التصفية.",
+    "propertiesFound_one": "عقار واحد",
+    "propertiesFound_other": "{{count}} عقار",
+    "save": "حفظ",
+    "saved": "محفوظ",
+    "compare": "مقارنة",
+    "delete": "حذف",
+    "confirmDelete": "هل أنت متأكد أنك تريد حذف هذا الإعلان؟",
+    "loading": "جاري التحميل...",
+    "viewDetails": "عرض التفاصيل"
+  },
+
+  "detail": {
+    "description": "الوصف",
+    "specs": "مواصفات العقار",
+    "area": "المساحة",
+    "pricePerUnit": "السعر لكل وحدة",
+    "zoning": "التصنيف",
+    "category": "الفئة",
+    "listed": "تاريخ النشر",
+    "featuresAmenities": "المميزات والمرافق",
+    "location": "الموقع",
+    "similarProperties": "عقارات مشابهة",
+    "contactSeller": "تواصل مع البائع",
+    "phone": "الهاتف",
+    "whatsapp": "واتساب",
+    "callSeller": "اتصل بالبائع",
+    "listingId": "رقم الإعلان"
+  },
+
+  "compare": {
+    "title": "مقارنة العقارات",
+    "selectedOf": "{{count}} من أصل 3 عقارات كحد أقصى",
+    "clearAll": "مسح الكل",
+    "noProperties": "لا توجد عقارات للمقارنة",
+    "addUpTo": "أضف حتى 3 عقارات من نتائج البحث لمقارنتها جنباً إلى جنب.",
+    "browseProperties": "تصفح العقارات",
+    "property": "العقار",
+    "price": "السعر",
+    "type": "النوع",
+    "area": "المساحة",
+    "priceUnit": "السعر/الوحدة",
+    "location": "الموقع",
+    "zoning": "التصنيف"
+  },
+
+  "favorites": {
+    "title": "العقارات المحفوظة",
+    "count": "{{count}} عقار محفوظ",
+    "noProperties": "لا توجد عقارات محفوظة بعد",
+    "clickHeart": "انقر على أيقونة القلب في أي عقار لحفظه هنا.",
+    "browseProperties": "تصفح العقارات"
+  },
+
+  "create": {
+    "step1": "نوع العقار",
+    "step2": "التفاصيل",
+    "step3": "الموقع",
+    "step4": "المميزات",
+    "step5": "المراجعة",
+    "whatType": "ما نوع العقار؟",
+    "listingType": "نوع الإعلان",
+    "category": "الفئة",
+    "subcategory": "الفئة الفرعية",
+    "selectSubcategory": "اختر الفئة الفرعية",
+    "propertyDetails": "تفاصيل العقار",
+    "title": "العنوان",
+    "titlePlaceholder": "مثال: شقة غرفتين في رام الله",
+    "description": "الوصف",
+    "descriptionPlaceholder": "اوصف العقار بالتفصيل...",
+    "priceUsd": "السعر (دولار)",
+    "area": "المساحة",
+    "unit": "الوحدة",
+    "dunam": "دونم",
+    "sqm": "م²",
+    "phoneNumber": "رقم الهاتف",
+    "phonePlaceholder": "+970 XX XXX XXXX",
+    "zoning": "التصنيف",
+    "selectZoning": "اختر التصنيف",
+    "city": "المدينة",
+    "selectCity": "اختر المدينة",
+    "district": "الحي",
+    "selectDistrict": "اختر الحي",
+    "pinLocation": "حدد الموقع على الخريطة (اختياري)",
+    "selected": "المحدد",
+    "featuresAmenities": "المميزات والمرافق",
+    "selectAll": "اختر كل ما ينطبق",
+    "reviewListing": "مراجعة الإعلان",
+    "notSpecified": "غير محدد",
+    "noneSelected": "لم يتم الاختيار",
+    "notPinned": "لم يتم التحديد",
+    "mapLocation": "الموقع على الخريطة",
+    "back": "رجوع",
+    "cancel": "إلغاء",
+    "next": "التالي",
+    "publishListing": "نشر الإعلان"
+  },
+
+  "map": {
+    "propertiesOnMap": "{{count}} عقار على الخريطة",
+    "clickMarker": "انقر على علامة لرؤية التفاصيل"
+  },
+
+  "notFound": {
+    "title": "404",
+    "message": "الصفحة التي تبحث عنها غير موجودة.",
+    "goHome": "الرئيسية",
+    "browseProperties": "تصفح العقارات"
+  },
+
+  "about": {
+    "title": "عقارات فلسطين",
+    "subtitle": "المنصة الرائدة للأراضي والعقارات في فلسطين. نربط البائعين والمشترين والمستأجرين في الضفة الغربية وقطاع غزة.",
+    "trusted": "منصة موثوقة",
+    "trustedDesc": "إعلانات موثقة ومعلومات شفافة لمعاملات عقارية آمنة.",
+    "local": "تركيز محلي",
+    "localDesc": "مكرسة للمدن والمجتمعات الفلسطينية، مع معرفة ورؤى محلية.",
+    "bilingual": "ثنائية اللغة",
+    "bilingualDesc": "دعم كامل للعربية والإنجليزية لخدمة جميع المستخدمين في فلسطين والشتات.",
+    "mission": "مهمتنا",
+    "missionP1": "عقارات فلسطين جزء من منظومة mstkshf.com، توفر منصة متخصصة للمعاملات العقارية في فلسطين. مهمتنا جعل اكتشاف العقارات سهلاً وشفافاً وفعالاً.",
+    "missionP2": "سواء كنت تبحث عن أرض زراعية في الخليل، أو شقة في رام الله، أو مساحة تجارية في نابلس، أو منزل عائلي في القدس — نحن هنا لمساعدتك.",
+    "missionP3": "نغطي جميع المدن الفلسطينية الرئيسية بما في ذلك القدس ورام الله والخليل ونابلس وبيت لحم وجنين وأريحا وطولكرم وقلقيلية والمزيد."
+  },
+
+  "footer": {
+    "description": "المنصة الرائدة للأراضي والعقارات في فلسطين. اعثر على عقارك المثالي في الضفة الغربية.",
+    "quickLinks": "روابط سريعة",
+    "browseByCity": "تصفح حسب المدينة",
+    "contact": "تواصل معنا",
+    "allRights": "عقارات فلسطين. جميع الحقوق محفوظة."
+  },
+
+  "categories": {
+    "residential-land": "أرض سكنية",
+    "agricultural-land": "أرض زراعية",
+    "commercial-land": "أرض تجارية",
+    "industrial-land": "أرض صناعية",
+    "houses-villas": "منازل وفلل",
+    "apartments": "شقق",
+    "commercial-property": "عقار تجاري",
+    "farms": "مزارع"
+  },
+
+  "zoning": {
+    "residential-a": "سكني أ",
+    "residential-b": "سكني ب",
+    "commercial": "تجاري",
+    "agricultural": "زراعي",
+    "industrial": "صناعي"
+  },
+
+  "features": {
+    "Parking": "مواقف سيارات",
+    "Garden": "حديقة",
+    "Pool": "مسبح",
+    "Elevator": "مصعد",
+    "Central Heating": "تدفئة مركزية",
+    "Air Conditioning": "تكييف",
+    "Balcony": "شرفة",
+    "Security System": "نظام أمان",
+    "Furnished": "مفروشة",
+    "Water Well": "بئر ماء",
+    "Road Access": "طريق معبّد",
+    "Fenced": "مسيّجة",
+    "Storage": "مخزن",
+    "Garage": "كراج",
+    "Solar Panels": "ألواح شمسية",
+    "Internet": "إنترنت",
+    "Generator": "مولد كهربائي",
+    "Water Heater": "سخان ماء",
+    "Building Permit": "رخصة بناء",
+    "Flat Terrain": "أرض مستوية"
+  }
+}
